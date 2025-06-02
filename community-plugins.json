@@ -18,5 +18,6 @@
   "highlightr-plugin",
   "text-extractor",
   "ai-image-analyzer",
-  "font-size"
+  "font-size",
+  "obsidian-git"
 ]
